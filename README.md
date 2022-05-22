@@ -1,6 +1,6 @@
 # Basic HATEOAS Restful Service
 
-Exercice 8 - https://spring.io/guides/gs/rest-service/
+Exercice 8 - https://spring.io/guides/gs/rest-hateoas/
 
 ## Commands
 
